@@ -2,6 +2,11 @@
 #
 a6594ca73418a89150bdd4daa19123ce4e5fa210	Non-Interactive Users
 dbee7e73bd625dbadb95446c406e3d02697adcc4	Administrators
+a9e2b082dee93be9c620fe86f12eca8ca6249b07	Continuous Integration Tools
+95059f8ecc49657cf0e258469ae2a7610609a53c	Release Managers
+25b277d0b440e9608c8e5536e05408b0a23b5f92	Project Bootstrappers 
+1ed337ddd935a0b5a8698ec7f690d4e9375efec9	Third-Party CI
+49f1659714c1759782bcfd01381873c50e2e69ad	Voting Third-Party CI 
 global:Anonymous-Users                  	Anonymous Users
 global:Project-Owners                   	Project Owners
 global:Registered-Users                 	Registered Users
